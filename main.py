@@ -1,8 +1,7 @@
+import test
 from lib import lib
 
-
-
-
 if __name__ == "__main__":
- lib()
+ print(test.test())
+ #lib()
 
